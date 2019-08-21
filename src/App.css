@@ -77,3 +77,15 @@
       .dropdown:hover .dropdown-content {
         display: block;
       }
+
+      .tag{
+          
+          background-color:rgb(129, 3, 3);
+          color: white;
+      }
+
+      .tags{
+        position: absolute;
+        top: 15px;
+        right: 15px;
+      }

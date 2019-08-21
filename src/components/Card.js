@@ -10,7 +10,9 @@ export default class Card extends React.Component {
         <div className="card shadow" >
           <div className="frame"> 
         <img className="card-img-top rounded" src={this.props.item.photo} alt="news" />
-        <span></span>
+        <div className = "tags">
+        {this.props.item.tags.map((tag)=><span className="tag m-1 rounded p-1 "> <small>{tag}</small></span>)} 
+        </div>
         </div>
         <div className="card-body">
           <span ><em> <small> {this.props.item.date}</small></em></span>
