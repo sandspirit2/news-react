@@ -7,7 +7,8 @@ export default class Card extends React.Component {
     return (
       
         <React.Fragment>
-        <div className="card shadow" >
+          <div className="ml-md-0 ml-3 col-12 col-md-4">
+        <div className="card  w-100  my-2  shadow" >
           <div className="frame"> 
         <img className="card-img-top rounded" src={this.props.item.photo} alt="news" />
         <div className = "tags">
@@ -17,6 +18,7 @@ export default class Card extends React.Component {
         <div className="card-body">
           <span ><em> <small> {this.props.item.date}</small></em></span>
           <p className="card-text font-weight-bold my-3">{this.props.item.txt}</p>
+        </div>
         </div>
         </div>
         </React.Fragment>

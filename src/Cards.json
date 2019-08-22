@@ -51,5 +51,58 @@
         "date": "April 30, 2015",
         "txt": "ONTRACK Simulation at German University in Cairo",
         "tags":["News","2011-2018"]
+    },
+    {   "photo":"https://www.itworx.com/wp-content/uploads/2019/04/AdobeStock_213765746-uai-516x344.jpeg",
+        "date": "May 4,2019",
+        "txt": "Founder Youssri Helmy Returns to ITWorx as CEO",
+        "tags":["News","2019"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/04/AdobeStock_204287935-uai-516x344.jpeg",
+        "date": "April 17, 2019",
+        "txt": "ITWorx Sponsors Sitecore Experience Day in Dubai",
+        "tags":["News","2019","events"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/04/UTC-supplier-gold-1-uai-516x344.jpg",
+        "date": "April 14, 2019",
+        "txt": "ITWorx Achieves United Technologies Supplier Gold Status",
+        "tags":["News","2019"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/04/AdobeStock_188382342-uai-516x344.jpeg",
+        "date": "March 17, 2019",
+        "txt": "ITWorx Launches Corporate OS; Sitecore Powered Employee Portal",
+        "tags":["News","2019"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2017/03/Technology-development-1-uai-516x344.jpg",
+        "date": "March 25,2017",
+        "txt": "ITWorx awarded sole Sitecore Platinum Partnership",
+        "tags":["News"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2017/03/Bike-Table12_edited-uai-516x344.jpg",
+        "date": "March 22,2017",
+        "txt": "ITWorx Sponsors the 9th United Way Charity Bike Ride",
+        "tags":["News"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/05/blog_main_on-track_at_AUC-uai-516x344.jpg",
+        "date": "May 7, 2015",
+        "txt": "Awareness session about IT impact on strategy execution at the American ",
+        "tags":["News","2011-2018"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/05/main_meet_the_business_leaders_ksa-uai-516x344.jpg",
+        "date": "April 30, 2015",
+        "txt": "ITWORX a strategic partner at “Meet the Business Leaders” 7th conference",
+        "tags":["News","2011-2018"]
+    },
+    {
+        "photo":"https://www.itworx.com/wp-content/uploads/2019/05/main_GUC_ON-Track_simulation-uai-516x344.jpg",
+        "date": "April 30, 2015",
+        "txt": "ONTRACK Simulation at German University in Cairo",
+        "tags":["News","2011-2018"]
     }
 ]
